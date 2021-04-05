@@ -4,7 +4,7 @@
 
 Enter a temperature in celsius and it gives you the overall feeling on the weather.
 
-## Temperature widget
+## Resizer widget
 
 An amazing image resizer
 ![Alt text](https://ibb.co/fSxyBqR "Screenshot Resizer widget")
