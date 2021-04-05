@@ -7,4 +7,4 @@ Enter a temperature in celsius and it gives you the overall feeling on the weath
 ## Resizer widget
 
 An amazing image resizer
-![Alt text](https://ibb.co/fSxyBqR "Screenshot Resizer widget")
+![Image Resizer](https://i.ibb.co/FWDyNmv/Capture-d-e-cran-2021-04-05-a-16-05-12.png)
